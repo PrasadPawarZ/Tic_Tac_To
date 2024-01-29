@@ -1,0 +1,2 @@
+Use Graphics.h. I used to used to run this in TurboC
+See videos on youtube How to run graphics file in c
